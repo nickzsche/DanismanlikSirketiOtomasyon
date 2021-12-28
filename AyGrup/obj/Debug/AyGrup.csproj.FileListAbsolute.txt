@@ -1,0 +1,16 @@
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\bin\Debug\AyGrup.exe.config
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\bin\Debug\AyGrup.exe
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\bin\Debug\AyGrup.pdb
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\bin\Debug\tr\AyGrup.resources.dll
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\bin\Debug\WebDriver.dll
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.csproj.AssemblyReference.cache
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.Form1.resources
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.Properties.Resources.resources
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.Form1.tr.resources
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.csproj.GenerateResource.cache
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.csproj.CoreCompileInputs.cache
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\tr\AyGrup.resources.dll
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.csproj.CopyComplete
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.exe
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.pdb
+C:\Users\Agartha\source\repos\AyGrup\AyGrup\obj\Debug\AyGrup.aylikSgkForm.resources
